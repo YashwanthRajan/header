@@ -13,6 +13,7 @@ function App() {
     <>
       <Header />
       <Search />
+      <input type="submit"/>
     </>
   );
 }
