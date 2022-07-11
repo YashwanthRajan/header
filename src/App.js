@@ -14,7 +14,8 @@ function App() {
       <Header />
       <input type="text"/>
       <Search />
-     
+      <input type="text"/>
+
     </>
   );
 }
