@@ -12,7 +12,9 @@ function App() {
   return (
     <>
       <Header />
+      <input type="text"/>
       <Search />
+     
     </>
   );
 }
