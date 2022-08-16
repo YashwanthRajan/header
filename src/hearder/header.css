@@ -47,3 +47,12 @@ body{
     align-items: center;
     padding:.25rem;
 }
+.header{
+background-color: orange;
+display: flex;
+color: azure;
+justify-content: space-between;
+ align-items: stretch;
+ gap: 3rem;
+padding: 0px 1rem;
+}

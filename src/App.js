@@ -7,16 +7,13 @@ import Header from "./hearder/header";
 // import { Route, Routes } from "react-router-dom";
 import { Search } from "./search";
 // import styled from "styled-components";
+import RoutePaths from "./hearder/routes";
 
 function App() {
   return (
-    <>
-      <Header />
-      <input type="text"/>
-      <Search />
-      <input type="text"/>
-
-    </>
+    <div>
+      <RoutePaths/>
+    </div>
   );
 }
 
